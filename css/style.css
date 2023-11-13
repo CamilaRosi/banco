@@ -1,0 +1,13 @@
+.formulario{
+    box-shadow: #507aec 1px 1px 22px 2px;
+    margin: 0 20%;
+    padding: 50px;
+    border: solid #507aec 1px;
+}
+
+.formulario a{
+    margin-left: 25%;
+}
+.formulario a button{
+    width: 52%;
+}
